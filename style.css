@@ -1,0 +1,21 @@
+:root{
+    --primary-dark:blue;
+    --primary-orange: orange;
+
+}
+
+h1{
+    text-align: center;
+
+}
+.container{
+    width: 50%; 
+    margin:auto;
+}
+
+input , label{
+    display: block;
+}
+input{
+    margin-bottom: 0.5rem;
+}
