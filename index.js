@@ -5,9 +5,9 @@ const output=document.querySelector("#output-box");
 
 function compareValues(sum,luckyNumber){
   if(sum%luckyNumber===0){
-    output.innerText="your Lucky birthday ";
+    output.innerText="Your birthday is Lucky ";
   }else{
-    output.innerText="not lucky";
+    output.innerText="NOT Lucky Enough 🤣😂";
   }
 
 }
